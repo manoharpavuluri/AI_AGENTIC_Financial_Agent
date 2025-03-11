@@ -1,0 +1,11 @@
+phidata # framework
+python-dotenv
+yfinance
+packaging
+duckduckgo-search # tool do any websearch
+fastapi # for front end application
+uvicorn
+groq # opensource libraries hosted and can get all using  apis
+pandas~=2.2.3
+agno
+openai
