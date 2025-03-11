@@ -9,3 +9,4 @@ groq # opensource libraries hosted and can get all using  apis
 pandas
 agno
 openai
+'fastapi[standard]'
